@@ -19,3 +19,6 @@ A pure HTML / CSS / JavaScript Hearthstone-style card battler.
 
 ## License
 Free to use, modify, and share.
+
+## Credits
+Built collaboratively with **Grok** (xAI).
