@@ -13,11 +13,9 @@ A pure HTML / CSS / JavaScript Hearthstone-style card battler.
 - Animations and floating combat text
 
 ## How to play
-
 1. Open `index.html` in any modern browser.
 2. Build a deck or click **Random Deck**.
 3. Start the match.
 
 ## License
-
 Free to use, modify, and share.
