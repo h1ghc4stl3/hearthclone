@@ -18,13 +18,6 @@ A pure HTML / CSS / JavaScript Hearthstone-style card battler.
 2. Build a deck or click **Random Deck**.
 3. Start the match.
 
-**Important**: The `index.html` currently in the repository is incomplete.  
-Please download the full latest version (`hearthclone.html`) from the conversation and replace `index.html` with it (rename to `index.html`).
-
-You can also enable **GitHub Pages** (Settings → Pages → Deploy from main branch) so the game is playable at:
-
-`https://h1ghc4stl3.github.io/hearthclone/`
-
 ## License
 
 Free to use, modify, and share.
