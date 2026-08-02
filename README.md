@@ -17,8 +17,8 @@ A pure HTML / CSS / JavaScript Hearthstone-style card battler.
 2. Build a deck or click **Random Deck**.
 3. Start the match.
 
-## License
-Free to use, modify, and share.
-
 ## Credits
 Built collaboratively with **Grok** (xAI).
+
+## License
+Free to use, modify, and share.
