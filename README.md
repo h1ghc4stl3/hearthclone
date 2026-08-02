@@ -1,2 +1,30 @@
-# hearthclone
-A pure HTML/CSS/JS Hearthstone-style card battler with keywords, hero powers, deck builder, tooltips, sounds and smarter AI.
+# HearthClone
+
+A pure HTML / CSS / JavaScript Hearthstone-style card battler.
+
+**Features**
+- Deck builder (15–30 cards, max 2 of each)
+- Keywords: Taunt, Divine Shield, Rush, Lifesteal, Poisonous
+- Hero Power (Mage Fireblast – 2 mana, deal 1 damage)
+- Spells with targeting
+- Card tooltips on hover
+- Procedural sound effects (Web Audio API)
+- Smarter AI with lethal detection and smart trading
+- Animations and floating combat text
+
+## How to play
+
+1. Open `index.html` in any modern browser.
+2. Build a deck or click **Random Deck**.
+3. Start the match.
+
+**Important**: The `index.html` currently in the repository is incomplete.  
+Please download the full latest version (`hearthclone.html`) from the conversation and replace `index.html` with it (rename to `index.html`).
+
+You can also enable **GitHub Pages** (Settings → Pages → Deploy from main branch) so the game is playable at:
+
+`https://h1ghc4stl3.github.io/hearthclone/`
+
+## License
+
+Free to use, modify, and share.
