@@ -11,6 +11,7 @@ A pure HTML / CSS / JavaScript Hearthstone-style card battler.
 - Procedural sound effects (Web Audio API)
 - Smarter AI with lethal detection and smart trading
 - Animations and floating combat text
+- Hero Selection + Mulligan + Reborn + Windfury + Armor
 
 ## How to play
 1. Open `index.html` in any modern browser.
